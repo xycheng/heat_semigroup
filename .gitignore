@@ -1,0 +1,37 @@
+# macOS
+.DS_Store
+
+# MATLAB autosave / backup
+*.asv
+*.autosave
+
+# MATLAB temporary/editor files
+*.m~
+*.mlx.autosave
+
+# MATLAB generated binaries
+*.mex*
+
+# MATLAB Simulink cache/codegen
+slprj/
+codegen/
+sfprj/
+work/
+
+# MATLAB preferences/project files
+*.prj
+resources/project/
+
+# Logs
+*.log
+
+# Python (if using conda)
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# VSCode
+.vscode/
+
+# Jupyter
+*.ipynb_checkpoints
